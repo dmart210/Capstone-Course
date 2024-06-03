@@ -7,6 +7,8 @@ Front-End
 - HTML5: Markup language for structuring the web page.
 - CSS3: Style sheet language for designing the web page.
 - JavaScript: Programming language for adding interactivity to the web page.
+
+
 Back-End
 - Flask: A lightweight WSGI web application framework in Python.
 - Python: The programming language used for backend development and AI model integration.
