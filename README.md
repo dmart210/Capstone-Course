@@ -12,10 +12,14 @@ Front-End
 Back-End
 - Flask: A lightweight WSGI web application framework in Python.
 - Python: The programming language used for backend development and AI model integration.
+
+
 Machine Learning
 - scikit-learn: A machine learning library for Python, used for training the diagnostic model.
 - TensorFlow: An open-source machine learning framework used for developing AI models.
 - Pandas: A data manipulation and analysis library for Python.
+
+
 Database
 - PostgreSQL: An open-source relational database management system.
 - MongoDB: A NoSQL database for storing user inputs and diagnostic results.
